@@ -11,6 +11,7 @@
 body{
     background-color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
     
 }
 header{
@@ -39,10 +40,33 @@ header > p{
 }
 article{
     font-family: var(--fonte-externa);
+    font-size: 1em;
+    font-style: normal;
+    margin-bottom: 340px;  
 }
 h2.p1{
     color: black;
+    height: 500px;
+    width: 250px;
+    line-height: 3em;
+    margin-bottom: 30px;
+    
 }
 h2.p2{
+    background-color: rgba(184, 179, 179, 0.808);
     color: white;
+    height: 700px;
+    width: 429px;
+    line-height: 5em;
+    margin-top: 65px;
+    font-size: 25px;
+    
+}
+h2#p3{
+    background-color: white;
+    height: 700px;
+    width: 429px;
+    margin-bottom: 673px;
+    font-size: 25px;
+    line-height: 5em;
 }
